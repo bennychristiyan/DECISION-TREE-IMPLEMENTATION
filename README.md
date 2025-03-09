@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 ## **Overview of the Decision Tree Notebook**
-The **"Decision_Tree.ipynb"** file is a Jupyter Notebook that appears to focus on implementing **Decision Trees**, a popular supervised machine learning algorithm used for classification and regression tasks. The notebook is written in **Python** and leverages essential libraries like **Pandas** and **scikit-learn (sklearn)** for data manipulation and machine learning.
+The **"Decision_Tree.ipynb"** file is a Jupyter Notebook that focus on implementing **Decision Trees**, a popular supervised machine learning algorithm used for classification and regression tasks. The notebook is written in **Python** and leverages essential libraries like **Pandas** and **scikit-learn (sklearn)** for data manipulation and machine learning.
 
 ### **Tools and Technologies Used**
 1. **Jupyter Notebook**  
