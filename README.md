@@ -91,3 +91,7 @@ The implementation of a **Decision Tree** in this notebook is applicable in vari
 
 6. **Hyperparameter Tuning (if included)**  
    - Adjust parameters like `max_depth`, `min_samples_split`, and `criterion` (e.g., "gini" or "entropy") to improve performance.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/3e9e0160-13b4-4a0b-822b-efe3729f5280)
